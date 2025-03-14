@@ -1,4 +1,4 @@
-#Radial Averaging Script for Charge Distribution and Potential Computation
+# Radial Averaging Script for Charge Distribution and Potential Computation
 
 ## Overview
 This script computes the radial average of a charge distribution from molecular dynamics simulations, using data exported in `.dx` format and converted to `.txt`. It was used in the analysis for the article:
